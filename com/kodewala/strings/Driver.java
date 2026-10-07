@@ -7,8 +7,9 @@
    {
     String s1 = "Kodewala";
 	String s2 = "Kodewala";
+	// compare the address of an object
+	System.out.println(s1 == s2);  // true
 	
-	System.out.println(s1 == s2);
    
    }
    }
